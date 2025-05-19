@@ -1,6 +1,5 @@
--- pov pick random ass anti http lmao lollllllll
--- enjoy
--- https://discord.gg/7eruumyxMC
+-- Feykhub Forever 
+- dont even try to steal
 local functions = {
     rconsoleprint,
     print,
