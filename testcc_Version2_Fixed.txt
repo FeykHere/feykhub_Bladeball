@@ -3,7 +3,7 @@
 
 local repo = "https://raw.githubusercontent.com/deividcomsono/Obsidian/main/"
 local Library = loadstring(game:HttpGet(repo .. "Library.lua"))()
-local ThemeManager = loadstring(game: HttpGet(repo .. "addons/ThemeManager.lua"))()
+local ThemeManager = loadstring(game:HttpGet(repo .. "addons/ThemeManager.lua"))()
 local SaveManager = loadstring(game:HttpGet(repo .. "addons/SaveManager.lua"))()
 
 local Options = Library. Options
@@ -90,7 +90,7 @@ local antiAFKConnection = nil
 -- FOV Circle
 local fovCircle = Drawing.new("Circle")
 fovCircle.Color = Color3.new(1, 1, 1)
-fovCircle.Thickness = 1. 5
+fovCircle.Thickness = 1.5
 fovCircle. Radius = fovRadius
 fovCircle. NumSides = 90
 fovCircle.Filled = false
